@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzu-juice&layout=compact&theme=synthwave)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuzu-juice)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yuzu-juice/yuzu-juice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
